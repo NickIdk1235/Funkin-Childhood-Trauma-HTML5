@@ -1,0 +1,4 @@
+1 = start
+0 = to end it
+
+FIXED CODE BY NICKIDK

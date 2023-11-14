@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soupbf.png">
+<SubTexture name="soupbf idle0000" x="269" y="1040" width="275" height="328" frameX="-819" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0001" x="544" y="1040" width="275" height="328" frameX="-819" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0002" x="1056" y="680" width="270" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0003" x="1326" y="0" width="270" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0004" x="1326" y="335" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0005" x="1326" y="670" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0006" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0007" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0008" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0009" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0010" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0011" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0012" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf idle0013" x="0" y="1040" width="269" height="335" frameX="-823" frameY="-285" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf left0000" x="0" y="352" width="267" height="344" frameX="-816" frameY="-275" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf left0001" x="267" y="352" width="267" height="344" frameX="-816" frameY="-275" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf left0002" x="267" y="696" width="266" height="343" frameX="-820" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf left0003" x="267" y="696" width="266" height="343" frameX="-820" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf down0000" x="819" y="1040" width="265" height="323" frameX="-828" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf down0001" x="1084" y="1040" width="265" height="323" frameX="-828" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf down0002" x="1596" y="0" width="263" height="323" frameX="-829" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf down0003" x="1596" y="0" width="263" height="323" frameX="-829" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf right0000" x="1056" y="0" width="270" height="340" frameX="-836" frameY="-278" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf right0001" x="1056" y="340" width="270" height="340" frameX="-836" frameY="-278" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf right0002" x="533" y="696" width="269" height="341" frameX="-835" frameY="-277" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf right0003" x="533" y="696" width="269" height="341" frameX="-835" frameY="-277" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf up0000" x="0" y="0" width="261" height="352" frameX="-830" frameY="-269" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf up0001" x="261" y="0" width="261" height="352" frameX="-830" frameY="-269" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf up0002" x="522" y="0" width="264" height="350" frameX="-829" frameY="-271" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf up0003" x="522" y="0" width="264" height="350" frameX="-829" frameY="-271" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf miss0000" x="786" y="0" width="270" height="344" frameX="-811" frameY="-275" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf miss0001" x="786" y="344" width="270" height="344" frameX="-811" frameY="-275" frameWidth="1774" frameHeight="998" />
+<SubTexture name="soupbf miss0002" x="0" y="696" width="267" height="344" frameX="-816" frameY="-275" frameWidth="1774" frameHeight="998" />
+</TextureAtlas>

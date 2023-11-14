@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="slendrman.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="slenderman down0000" x="0" y="0" width="2008" height="2104" frameX="0" frameY="-15" frameWidth="2008" frameHeight="2119"/>
+	<SubTexture name="slenderman down0001" x="0" y="0" width="2008" height="2104" frameX="0" frameY="-15" frameWidth="2008" frameHeight="2119"/>
+	<SubTexture name="slenderman down0002" x="2008" y="0" width="2004" height="2111" frameX="-4" frameY="0" frameWidth="2008" frameHeight="2119"/>
+	<SubTexture name="slenderman idle0000" x="4012" y="0" width="2083" height="2182" frameX="-2" frameY="-5" frameWidth="2088" frameHeight="2187"/>
+	<SubTexture name="slenderman idle0001" x="4012" y="0" width="2083" height="2182" frameX="-2" frameY="-5" frameWidth="2088" frameHeight="2187"/>
+	<SubTexture name="slenderman idle0002" x="6095" y="0" width="2088" height="2187"/>
+	<SubTexture name="slenderman idle0003" x="6095" y="0" width="2088" height="2187"/>
+	<SubTexture name="slenderman idle0004" x="0" y="2187" width="2012" height="2117" frameX="-38" frameY="-28" frameWidth="2088" frameHeight="2187"/>
+	<SubTexture name="slenderman idle0005" x="0" y="2187" width="2012" height="2117" frameX="-38" frameY="-28" frameWidth="2088" frameHeight="2187"/>
+	<SubTexture name="slenderman idle0006" x="2012" y="2187" width="2000" height="2111" frameX="-43" frameY="-28" frameWidth="2088" frameHeight="2187"/>
+	<SubTexture name="slenderman left0000" x="4012" y="2187" width="2079" height="2180"/>
+	<SubTexture name="slenderman left0001" x="4012" y="2187" width="2079" height="2180"/>
+	<SubTexture name="slenderman left0002" x="6091" y="2187" width="2021" height="2127" frameX="-27" frameY="-16" frameWidth="2079" frameHeight="2180"/>
+	<SubTexture name="slenderman right0000" x="0" y="4367" width="2072" height="2145"/>
+	<SubTexture name="slenderman right0001" x="0" y="4367" width="2072" height="2145"/>
+	<SubTexture name="slenderman right0002" x="2072" y="4367" width="2000" height="2111" frameX="-19" frameY="-8" frameWidth="2072" frameHeight="2145"/>
+	<SubTexture name="slenderman up0000" x="4072" y="4367" width="1996" height="2120" frameX="-2" frameY="0" frameWidth="2000" frameHeight="2120"/>
+	<SubTexture name="slenderman up0001" x="4072" y="4367" width="1996" height="2120" frameX="-2" frameY="0" frameWidth="2000" frameHeight="2120"/>
+	<SubTexture name="slenderman up0002" x="6068" y="4367" width="2000" height="2104" frameX="0" frameY="-16" frameWidth="2000" frameHeight="2120"/>
+</TextureAtlas>

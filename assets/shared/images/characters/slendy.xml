@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="slendy.png"><SubTexture name="slendy idle0000" x="0" y="1046" width="331" height="444" frameX="-718" frameY="-278" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0001" x="331" y="1046" width="341" height="439" frameX="-713" frameY="-283" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0002" x="331" y="1046" width="341" height="439" frameX="-713" frameY="-283" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0003" x="1443" y="0" width="327" height="466" frameX="-719" frameY="-256" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0004" x="1129" y="476" width="312" height="473" frameX="-726" frameY="-249" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0005" x="1129" y="476" width="312" height="473" frameX="-726" frameY="-249" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0006" x="1129" y="0" width="314" height="476" frameX="-725" frameY="-246" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0007" x="1129" y="0" width="314" height="476" frameX="-725" frameY="-246" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0008" x="1129" y="0" width="314" height="476" frameX="-725" frameY="-246" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy idle0009" x="1129" y="0" width="314" height="476" frameX="-725" frameY="-246" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy left0000" x="818" y="0" width="311" height="496" frameX="-645" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy left0001" x="818" y="0" width="311" height="496" frameX="-645" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy left0002" x="0" y="550" width="285" height="496" frameX="-673" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy left0003" x="0" y="550" width="285" height="496" frameX="-673" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy right0000" x="609" y="550" width="277" height="477" frameX="-773" frameY="-271" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy right0001" x="609" y="550" width="277" height="477" frameX="-773" frameY="-271" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy right0002" x="886" y="550" width="237" height="477" frameX="-777" frameY="-267" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy right0003" x="886" y="550" width="237" height="477" frameX="-777" frameY="-267" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy up0000" x="0" y="0" width="234" height="550" frameX="-746" frameY="-194" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy up0001" x="0" y="0" width="234" height="550" frameX="-746" frameY="-194" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy up0002" x="234" y="0" width="278" height="517" frameX="-723" frameY="-229" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy up0003" x="234" y="0" width="278" height="517" frameX="-723" frameY="-229" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy down0000" x="285" y="550" width="324" height="491" frameX="-689" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy down0001" x="285" y="550" width="324" height="491" frameX="-689" frameY="-253" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy down0002" x="512" y="0" width="306" height="511" frameX="-697" frameY="-237" frameWidth="1655" frameHeight="931" />
+<SubTexture name="slendy down0003" x="512" y="0" width="306" height="511" frameX="-697" frameY="-237" frameWidth="1655" frameHeight="931" />
+</TextureAtlas>

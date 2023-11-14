@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="start.png">
+<SubTexture name="start normal0000" x="0" y="29" width="102" height="29" frameX="0" frameY="0" frameWidth="103" frameHeight="29" />
+<SubTexture name="start glow0000" x="0" y="0" width="102" height="29" frameX="0" frameY="0" frameWidth="103" frameHeight="29" />
+</TextureAtlas>

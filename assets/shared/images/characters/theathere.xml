@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="theather.png"><SubTexture name="theather idle0000" x="545" y="707" width="289" height="565" frameX="-752" frameY="-146" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0001" x="545" y="707" width="289" height="565" frameX="-752" frameY="-146" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0002" x="0" y="1305" width="293" height="527" frameX="-751" frameY="-182" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0003" x="0" y="1305" width="293" height="527" frameX="-751" frameY="-182" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0004" x="1652" y="0" width="282" height="529" frameX="-756" frameY="-177" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0005" x="1379" y="558" width="273" height="542" frameX="-759" frameY="-167" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0006" x="1379" y="558" width="273" height="542" frameX="-759" frameY="-167" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0007" x="1379" y="0" width="273" height="558" frameX="-757" frameY="-151" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0008" x="834" y="707" width="273" height="560" frameX="-756" frameY="-150" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0009" x="834" y="707" width="273" height="560" frameX="-756" frameY="-150" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0010" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0011" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0012" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0013" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0014" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather idle0015" x="281" y="707" width="264" height="574" frameX="-758" frameY="-137" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather left0000" x="464" y="0" width="307" height="598" frameX="-748" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather left0001" x="464" y="0" width="307" height="598" frameX="-748" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather left0002" x="771" y="0" width="289" height="598" frameX="-751" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather left0003" x="771" y="0" width="289" height="598" frameX="-751" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather right0000" x="1060" y="0" width="319" height="598" frameX="-717" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather right0001" x="1060" y="0" width="319" height="598" frameX="-717" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather right0002" x="0" y="707" width="281" height="598" frameX="-761" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather right0003" x="0" y="707" width="281" height="598" frameX="-761" frameY="-112" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather up0000" x="0" y="0" width="223" height="707" frameX="-786" frameY="-10" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather up0001" x="0" y="0" width="223" height="707" frameX="-786" frameY="-10" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather up0002" x="223" y="0" width="241" height="682" frameX="-773" frameY="-37" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather up0003" x="223" y="0" width="241" height="682" frameX="-773" frameY="-37" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather down0000" x="618" y="1305" width="336" height="457" frameX="-707" frameY="-227" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather down0001" x="618" y="1305" width="336" height="457" frameX="-707" frameY="-227" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather down0002" x="293" y="1305" width="325" height="486" frameX="-716" frameY="-200" frameWidth="1655" frameHeight="931" />
+<SubTexture name="theather down0003" x="293" y="1305" width="325" height="486" frameX="-716" frameY="-200" frameWidth="1655" frameHeight="931" />
+</TextureAtlas>

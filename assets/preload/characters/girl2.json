@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-20
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "girl idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "girl right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-36
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "girl left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-14,
+				-24
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "girl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-31
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "girl up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-11,
+				-28
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "turn",
+			"indices": [],
+			"name": "girl turn"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/girl2",
+	"position": [
+		-820,
+		-60
+	],
+	"healthicon": "mirror-girl",
+	"flip_x": true,
+	"healthbar_colors": [
+		141,
+		223,
+		147
+	],
+	"camera_position": [
+		380,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

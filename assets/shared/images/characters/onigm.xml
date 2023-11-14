@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="onigm.png"><SubTexture name="onigm bf dies0000" x="2605" y="2626" width="954" height="584" frameX="-200" frameY="-52" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0001" x="2605" y="2626" width="954" height="584" frameX="-200" frameY="-52" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0002" x="1650" y="2626" width="955" height="586" frameX="-226" frameY="-50" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0003" x="767" y="2626" width="883" height="587" frameX="-297" frameY="-49" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0004" x="0" y="2626" width="767" height="588" frameX="-408" frameY="-48" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0005" x="3795" y="0" width="659" height="583" frameX="-495" frameY="-53" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0006" x="0" y="3214" width="683" height="583" frameX="-495" frameY="-53" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0007" x="4107" y="583" width="265" height="509" frameX="-495" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0008" x="4107" y="583" width="265" height="509" frameX="-495" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0009" x="4107" y="583" width="265" height="509" frameX="-495" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0010" x="4107" y="583" width="265" height="509" frameX="-495" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0011" x="4107" y="583" width="265" height="509" frameX="-495" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0012" x="3795" y="583" width="312" height="532" frameX="-470" frameY="-127" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0013" x="2098" y="676" width="367" height="637" frameX="-442" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0014" x="0" y="0" width="442" height="676" frameX="-409" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0015" x="442" y="0" width="486" height="676" frameX="-390" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0016" x="928" y="0" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0017" x="0" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0018" x="585" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0019" x="1513" y="0" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0020" x="585" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0021" x="1513" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0022" x="585" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0023" x="0" y="1352" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0024" x="585" y="1352" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0025" x="585" y="676" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0026" x="1170" y="1352" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0027" x="2098" y="0" width="585" height="676" frameX="-333" frameY="0" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0028" x="0" y="2028" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0029" x="1112" y="2028" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0030" x="2683" y="0" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0031" x="2683" y="598" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm bf dies0032" x="2683" y="1196" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm dead loop0000" x="2683" y="1794" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm dead loop0001" x="2683" y="1794" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm dead confirm0000" x="2683" y="1794" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm dead confirm0001" x="2683" y="1794" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+<SubTexture name="onigm dead confirm0002" x="2683" y="1794" width="1112" height="598" frameX="-45" frameY="-39" frameWidth="1202" frameHeight="676" />
+</TextureAtlas>

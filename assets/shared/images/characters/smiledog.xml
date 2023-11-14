@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="smiledog.png">
+<SubTexture name="smiledog idle0000" x="280" y="938" width="285" height="356" frameX="-752" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0001" x="280" y="938" width="285" height="356" frameX="-752" frameY="-298" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0002" x="0" y="938" width="280" height="357" frameX="-754" frameY="-297" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0003" x="0" y="938" width="280" height="357" frameX="-754" frameY="-297" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0004" x="576" y="550" width="274" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0005" x="576" y="550" width="274" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0006" x="850" y="550" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0007" x="850" y="550" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0008" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0009" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0010" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0011" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0012" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog idle0013" x="1276" y="0" width="273" height="364" frameX="-757" frameY="-290" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog up0000" x="0" y="0" width="206" height="550" frameX="-788" frameY="-146" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog up0001" x="0" y="0" width="206" height="550" frameX="-788" frameY="-146" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog up0002" x="206" y="0" width="215" height="546" frameX="-784" frameY="-150" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog up0003" x="206" y="0" width="215" height="546" frameX="-784" frameY="-150" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog right0000" x="565" y="938" width="383" height="353" frameX="-833" frameY="-317" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog right0001" x="565" y="938" width="383" height="353" frameX="-833" frameY="-317" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog right0002" x="948" y="938" width="374" height="350" frameX="-832" frameY="-317" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog right0003" x="948" y="938" width="374" height="350" frameX="-832" frameY="-317" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog down0000" x="288" y="550" width="288" height="384" frameX="-757" frameY="-382" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog down0001" x="288" y="550" width="288" height="384" frameX="-757" frameY="-382" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog down0002" x="0" y="550" width="288" height="388" frameX="-756" frameY="-376" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog down0003" x="0" y="550" width="288" height="388" frameX="-756" frameY="-376" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog left0000" x="421" y="0" width="431" height="436" frameX="-626" frameY="-318" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog left0001" x="421" y="0" width="431" height="436" frameX="-626" frameY="-318" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog left0002" x="852" y="0" width="424" height="436" frameX="-633" frameY="-318" frameWidth="1774" frameHeight="998" />
+<SubTexture name="smiledog left0003" x="852" y="0" width="424" height="436" frameX="-633" frameY="-318" frameWidth="1774" frameHeight="998" />
+</TextureAtlas>

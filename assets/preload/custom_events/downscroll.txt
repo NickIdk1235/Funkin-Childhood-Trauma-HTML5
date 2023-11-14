@@ -1,0 +1,4 @@
+1 = Downscroll Force ON
+0 = Downscroll Force OFF
+
+FIXED CODE BY NICKIDK

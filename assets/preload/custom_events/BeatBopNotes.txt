@@ -1,0 +1,10 @@
+Makes notes bop Up and Down
+
+Original Up and down moving notes by bbpanzu (used for kaboom)
+Event Port By BirbyJaySunday on YT
+
+Value 1: 
+1 to Up
+0 to down
+
+FIXED CODE BY NICKIDK

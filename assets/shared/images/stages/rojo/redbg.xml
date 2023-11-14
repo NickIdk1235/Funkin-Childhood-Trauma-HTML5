@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="redbg.png">
+<SubTexture name="redbg play0000" x="0" y="0" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0001" x="210" y="0" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0002" x="0" y="110" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0003" x="210" y="110" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0004" x="0" y="220" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0005" x="210" y="220" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0006" x="420" y="0" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0007" x="420" y="110" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0008" x="420" y="220" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0009" x="0" y="330" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0010" x="210" y="330" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0011" x="420" y="330" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0012" x="0" y="440" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0013" x="210" y="440" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0014" x="420" y="440" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0015" x="630" y="0" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0016" x="630" y="110" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0017" x="630" y="220" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0018" x="630" y="330" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0019" x="630" y="440" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0020" x="0" y="550" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0021" x="210" y="550" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0022" x="420" y="550" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0023" x="630" y="550" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0024" x="0" y="660" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0025" x="210" y="660" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0026" x="420" y="660" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+<SubTexture name="redbg play0027" x="630" y="660" width="210" height="110" frameX="0" frameY="0" frameWidth="210" frameHeight="110" />
+</TextureAtlas>

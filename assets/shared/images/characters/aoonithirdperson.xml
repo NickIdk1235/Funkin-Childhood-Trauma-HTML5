@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="aoonithirdperson.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="aooni down0000" x="0" y="0" width="1399" height="1419" frameX="0" frameY="0" frameWidth="1399" frameHeight="1421"/>
+	<SubTexture name="aooni down0001" x="0" y="0" width="1399" height="1419" frameX="0" frameY="0" frameWidth="1399" frameHeight="1421"/>
+	<SubTexture name="aooni down0002" x="1399" y="0" width="1387" height="1399" frameX="-6" frameY="-22" frameWidth="1399" frameHeight="1421"/>
+	<SubTexture name="aooni idle0000" x="2786" y="0" width="1435" height="1402" frameX="0" frameY="-26" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0001" x="2786" y="0" width="1435" height="1402" frameX="0" frameY="-26" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0002" x="4221" y="0" width="1427" height="1430" frameX="-16" frameY="0" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0003" x="4221" y="0" width="1427" height="1430" frameX="-16" frameY="0" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0004" x="5648" y="0" width="1376" height="1384" frameX="-18" frameY="-47" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0005" x="5648" y="0" width="1376" height="1384" frameX="-18" frameY="-47" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni idle0006" x="0" y="1430" width="1371" height="1384" frameX="-18" frameY="-47" frameWidth="1443" frameHeight="1431"/>
+	<SubTexture name="aooni left0000" x="1371" y="1430" width="1420" height="1421"/>
+	<SubTexture name="aooni left0001" x="1371" y="1430" width="1420" height="1421"/>
+	<SubTexture name="aooni left0002" x="2791" y="1430" width="1408" height="1405" frameX="-6" frameY="-16" frameWidth="1420" frameHeight="1421"/>
+	<SubTexture name="aooni right0000" x="4199" y="1430" width="1394" height="1402" frameX="-1" frameY="0" frameWidth="1395" frameHeight="1402"/>
+	<SubTexture name="aooni right0001" x="4199" y="1430" width="1394" height="1402" frameX="-1" frameY="0" frameWidth="1395" frameHeight="1402"/>
+	<SubTexture name="aooni right0002" x="5593" y="1430" width="1387" height="1397" frameX="0" frameY="-5" frameWidth="1395" frameHeight="1402"/>
+	<SubTexture name="aooni up0000" x="0" y="2851" width="1391" height="1416" frameX="-12" frameY="0" frameWidth="1403" frameHeight="1416"/>
+	<SubTexture name="aooni up0001" x="0" y="2851" width="1391" height="1416" frameX="-12" frameY="0" frameWidth="1403" frameHeight="1416"/>
+	<SubTexture name="aooni up0002" x="1391" y="2851" width="1387" height="1394" frameX="0" frameY="-18" frameWidth="1403" frameHeight="1416"/>
+</TextureAtlas>

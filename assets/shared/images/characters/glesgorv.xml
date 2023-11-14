@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="glesgorv.png">
+<SubTexture name="glesgorv idle0000" x="824" y="249" width="248" height="247" frameX="-671" frameY="-374" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv idle0001" x="824" y="249" width="248" height="247" frameX="-671" frameY="-374" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv idle0002" x="576" y="0" width="248" height="249" frameX="-671" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv idle0003" x="576" y="0" width="248" height="249" frameX="-671" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv idle0004" x="0" y="347" width="248" height="249" frameX="-671" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv idle0005" x="0" y="347" width="248" height="249" frameX="-671" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0000" x="1149" y="0" width="362" height="232" frameX="-610" frameY="-389" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0001" x="1149" y="0" width="362" height="232" frameX="-610" frameY="-389" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0002" x="0" y="843" width="360" height="238" frameX="-611" frameY="-383" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0003" x="0" y="843" width="360" height="238" frameX="-611" frameY="-383" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0004" x="334" y="596" width="357" height="241" frameX="-613" frameY="-380" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv down0005" x="334" y="596" width="357" height="241" frameX="-613" frameY="-380" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0000" x="0" y="596" width="334" height="247" frameX="-584" frameY="-374" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0001" x="0" y="596" width="334" height="247" frameX="-584" frameY="-374" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0002" x="248" y="347" width="329" height="249" frameX="-590" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0003" x="248" y="347" width="329" height="249" frameX="-590" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0004" x="824" y="0" width="325" height="249" frameX="-594" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv left0005" x="824" y="0" width="325" height="249" frameX="-594" frameY="-372" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0000" x="0" y="0" width="187" height="347" frameX="-697" frameY="-273" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0001" x="0" y="0" width="187" height="347" frameX="-697" frameY="-273" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0002" x="187" y="0" width="193" height="341" frameX="-694" frameY="-279" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0003" x="187" y="0" width="193" height="341" frameX="-694" frameY="-279" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0004" x="380" y="0" width="196" height="340" frameX="-692" frameY="-280" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv up0005" x="380" y="0" width="196" height="340" frameX="-692" frameY="-280" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0000" x="632" y="843" width="275" height="234" frameX="-680" frameY="-382" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0001" x="632" y="843" width="275" height="234" frameX="-680" frameY="-382" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0002" x="360" y="843" width="272" height="237" frameX="-680" frameY="-379" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0003" x="360" y="843" width="272" height="237" frameX="-680" frameY="-379" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0004" x="691" y="596" width="267" height="239" frameX="-680" frameY="-377" frameWidth="1774" frameHeight="998" />
+<SubTexture name="glesgorv right0005" x="691" y="596" width="267" height="239" frameX="-680" frameY="-377" frameWidth="1774" frameHeight="998" />
+</TextureAtlas>

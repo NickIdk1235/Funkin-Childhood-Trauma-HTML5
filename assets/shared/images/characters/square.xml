@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="square.png"><SubTexture name="square IDLE0000" x="1448" y="502" width="538" height="438" frameX="-375" frameY="-139" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0001" x="1093" y="1632" width="568" height="291" frameX="-404" frameY="-286" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0002" x="551" y="1632" width="542" height="307" frameX="-383" frameY="-272" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0003" x="0" y="1632" width="551" height="355" frameX="-376" frameY="-220" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0004" x="597" y="1150" width="550" height="398" frameX="-387" frameY="-177" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0005" x="1448" y="502" width="538" height="438" frameX="-375" frameY="-139" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0006" x="1448" y="502" width="538" height="438" frameX="-375" frameY="-139" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0007" x="1448" y="502" width="538" height="438" frameX="-375" frameY="-139" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square IDLE0008" x="1448" y="502" width="538" height="438" frameX="-375" frameY="-139" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square UP0000" x="667" y="0" width="781" height="530" frameX="-464" frameY="-37" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square UP0001" x="667" y="0" width="781" height="530" frameX="-464" frameY="-37" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square UP0002" x="0" y="620" width="813" height="530" frameX="-473" frameY="-41" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square DOWN0000" x="2018" y="0" width="822" height="271" frameX="-285" frameY="-304" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square DOWN0001" x="2018" y="0" width="822" height="271" frameX="-285" frameY="-304" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square DOWN0002" x="0" y="1987" width="854" height="227" frameX="-273" frameY="-352" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square RIGHT0000" x="1147" y="1150" width="508" height="387" frameX="-407" frameY="-207" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square RIGHT0001" x="1147" y="1150" width="508" height="387" frameX="-407" frameY="-207" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square RIGHT0002" x="1448" y="0" width="570" height="502" frameX="-553" frameY="-85" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LEFT0000" x="317" y="0" width="350" height="568" frameX="-574" frameY="-41" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LEFT0001" x="317" y="0" width="350" height="568" frameX="-574" frameY="-41" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LEFT0002" x="0" y="0" width="317" height="620" frameX="-584" frameY="0" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LEFT0003" x="0" y="0" width="317" height="620" frameX="-584" frameY="0" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LIKE0000" x="0" y="1150" width="597" height="482" frameX="-518" frameY="-125" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LIKE0001" x="813" y="620" width="553" height="506" frameX="-538" frameY="-99" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LIKE0002" x="813" y="620" width="553" height="506" frameX="-538" frameY="-99" frameWidth="1400" frameHeight="720" />
+<SubTexture name="square LIKE0003" x="813" y="620" width="553" height="506" frameX="-538" frameY="-99" frameWidth="1400" frameHeight="720" />
+</TextureAtlas>

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				253,
+				-19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fidlagoshoot idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-29
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fidlagoshoot right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				340,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fidlagoshoot left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fidlagoshoot up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-100
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fidlagoshoot down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-23
+			],
+			"anim": "shoot",
+			"fps": 24,
+			"name": "fidlagoshoot shoot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				291,
+				-39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "raah",
+			"loop": false,
+			"name": "fidlagoshoot enojo"
+		},
+		{
+			"offsets": [
+				253,
+				-23
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "preshoot",
+			"loop": false,
+			"name": "fidlagoshoot preshoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fidlagoshoot",
+	"position": [
+		-100,
+		-220
+	],
+	"healthicon": "teresa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-110,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

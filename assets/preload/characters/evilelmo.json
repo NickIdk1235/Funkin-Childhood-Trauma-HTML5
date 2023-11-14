@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "elmokiller idle"
+		},
+		{
+			"offsets": [
+				10,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "elmokiller down"
+		},
+		{
+			"offsets": [
+				17,
+				57
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "elmokiller up"
+		},
+		{
+			"offsets": [
+				4,
+				42
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "elmokiller right"
+		},
+		{
+			"offsets": [
+				8,
+				39
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "elmokiller left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elmokiller",
+	"position": [
+		-410,
+		-280
+	],
+	"healthicon": "elmo",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		53,
+		22
+	],
+	"camera_position": [
+		-770,
+		-270
+	],
+	"sing_duration": 6.1,
+	"scale": 1.7
+}

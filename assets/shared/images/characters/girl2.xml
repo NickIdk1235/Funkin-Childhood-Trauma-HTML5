@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="girl.png">
+<SubTexture name="girl idle0000" x="1709" y="1515" width="439" height="708" frameX="-649" frameY="-112" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0001" x="1709" y="1515" width="439" height="708" frameX="-649" frameY="-112" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0002" x="2081" y="0" width="435" height="723" frameX="-654" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0003" x="2081" y="0" width="435" height="723" frameX="-654" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0004" x="2081" y="723" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0005" x="2081" y="723" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0006" x="0" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0007" x="0" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0008" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0009" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0010" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0011" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0012" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0013" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl idle0014" x="426" y="1515" width="426" height="722" frameX="-655" frameY="-97" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl down0000" x="0" y="2237" width="439" height="693" frameX="-653" frameY="-123" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl down0001" x="0" y="2237" width="439" height="693" frameX="-653" frameY="-123" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl down0002" x="2516" y="0" width="425" height="704" frameX="-661" frameY="-111" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl down0003" x="2516" y="0" width="425" height="704" frameX="-661" frameY="-111" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl right0000" x="0" y="774" width="437" height="741" frameX="-683" frameY="-71" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl right0001" x="0" y="774" width="437" height="741" frameX="-683" frameY="-71" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl right0002" x="796" y="0" width="436" height="747" frameX="-674" frameY="-65" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl right0003" x="796" y="0" width="436" height="747" frameX="-674" frameY="-65" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl left0000" x="1668" y="0" width="413" height="731" frameX="-645" frameY="-76" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl left0001" x="1668" y="0" width="413" height="731" frameX="-645" frameY="-76" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl left0002" x="437" y="774" width="408" height="740" frameX="-650" frameY="-67" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl left0003" x="437" y="774" width="408" height="740" frameX="-650" frameY="-67" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl up0000" x="1232" y="0" width="436" height="746" frameX="-669" frameY="-63" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl up0001" x="1232" y="0" width="436" height="746" frameX="-669" frameY="-63" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl up0002" x="845" y="774" width="450" height="737" frameX="-661" frameY="-72" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl up0003" x="845" y="774" width="450" height="737" frameX="-661" frameY="-72" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0000" x="852" y="1515" width="427" height="722" frameX="-659" frameY="-89" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0001" x="852" y="1515" width="427" height="722" frameX="-659" frameY="-89" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0002" x="1279" y="1515" width="430" height="720" frameX="-664" frameY="-91" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0003" x="1279" y="1515" width="430" height="720" frameX="-664" frameY="-91" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0004" x="393" y="0" width="403" height="758" frameX="-659" frameY="-51" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0005" x="393" y="0" width="403" height="758" frameX="-659" frameY="-51" frameWidth="1774" frameHeight="998" />
+<SubTexture name="girl turn0006" x="0" y="0" width="393" height="774" frameX="-684" frameY="-34" frameWidth="1774" frameHeight="998" />
+</TextureAtlas>

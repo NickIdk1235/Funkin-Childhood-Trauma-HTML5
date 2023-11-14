@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blockman.png">
+<SubTexture name="blockman idle0000" x="0" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0001" x="0" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0002" x="788" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0003" x="788" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0004" x="0" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0005" x="0" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0006" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0007" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0008" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0009" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0010" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0011" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0012" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0013" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0014" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0015" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman idle0016" x="788" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman left0000" x="1576" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman left0001" x="1576" y="0" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman left0002" x="1576" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman left0003" x="1576" y="587" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman right0000" x="0" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman right0001" x="0" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman right0002" x="788" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman right0003" x="788" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman up0000" x="1576" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman up0001" x="1576" y="1174" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman up0002" x="0" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman up0003" x="0" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman down0000" x="788" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman down0001" x="788" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman down0002" x="1576" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+<SubTexture name="blockman down0003" x="1576" y="1761" width="788" height="587" frameX="-354" frameY="-24" frameWidth="1150" frameHeight="647" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+Value 1: 
+1 to Black
+0 to White
+
+This only works in the song Idiotic
+
+CODE MADE BY NICKIDK

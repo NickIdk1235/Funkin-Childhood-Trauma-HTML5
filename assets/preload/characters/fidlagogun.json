@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				270,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sus",
+			"indices": [],
+			"name": "teresa sus"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				253,
+				-19
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "fidlagogun idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "fidlagogun left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				230,
+				-19
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "fidlagogun right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "fidlagogun down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				264,
+				-30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "fidlagogun up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				250,
+				-30
+			],
+			"anim": "end",
+			"fps": 24,
+			"name": "fidlagogun yinthend",
+			"indices": []
+		},
+		{
+			"offsets": [
+				250,
+				-20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "alright",
+			"indices": [],
+			"name": "fidlagogun alright"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				283,
+				-40
+			],
+			"anim": "laugh",
+			"fps": 24,
+			"name": "fidlagogun ji",
+			"indices": []
+		},
+		{
+			"offsets": [
+				291,
+				-35
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "rage",
+			"loop": false,
+			"name": "fidlagogun enojo"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fidlagogun",
+	"position": [
+		-100,
+		-220
+	],
+	"healthicon": "teresa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-110,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

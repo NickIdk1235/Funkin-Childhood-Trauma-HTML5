@@ -1,0 +1,11 @@
+{
+	"idle_anim": "credits move",
+	"image": "Static",
+	"position": [
+		-140,
+		20
+	],
+	"flipX": false,
+	"scale": 2.95,
+	"confirm_anim": "M Dad Idle"
+}

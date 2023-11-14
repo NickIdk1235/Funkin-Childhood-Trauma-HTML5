@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lomand idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lomand down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lomand up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lomand right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-169,
+				33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lomand left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/lomand",
+	"position": [
+		390,
+		-550
+	],
+	"healthicon": "catph",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		48,
+		80
+	],
+	"camera_position": [
+		-260,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

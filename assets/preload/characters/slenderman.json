@@ -1,0 +1,142 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note LEFT",
+			"indices": [
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": [
+				15,
+				16,
+				17,
+				18
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-loop",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": [
+				56,
+				57,
+				58,
+				59
+			]
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				12
+			],
+			"name": "slenderman idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "slendy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-60
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "slendy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-80
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "slendy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-78,
+				-33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "slendy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-27,
+				20
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "slendy up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/slendy",
+	"position": [
+		-200,
+		60
+	],
+	"healthicon": "slen",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		212,
+		212
+	],
+	"camera_position": [
+		-1100,
+		-750
+	],
+	"sing_duration": 6.1,
+	"scale": 2.3
+}

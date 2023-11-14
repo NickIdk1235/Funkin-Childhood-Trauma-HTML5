@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				7,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf-theather idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				140,
+				120
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf-theather left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				140,
+				130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf-theather up"
+		},
+		{
+			"offsets": [
+				110,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf-theather right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				112
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf-theather down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				673,
+				130
+			],
+			"indices": [],
+			"fps": 16,
+			"anim": "walk",
+			"loop": false,
+			"name": "bf-theather walk"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bf-theather",
+	"position": [
+		-560,
+		100
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		-80,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 0.700000000000005
+}

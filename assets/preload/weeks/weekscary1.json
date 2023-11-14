@@ -1,0 +1,32 @@
+{
+	"storyName": "BF is having a new computer!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "neverunlocked",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"static",
+		"bfscared",
+		""
+	],
+	"songs": [
+		[
+			"idiotic",
+			"none",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekscary1",
+	"hiddenUntilUnlocked": false
+}

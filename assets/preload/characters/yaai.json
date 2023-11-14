@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "yaai idle"
+		},
+		{
+			"offsets": [
+				20,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "yaai down"
+		},
+		{
+			"offsets": [
+				-221,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "yaai up"
+		},
+		{
+			"offsets": [
+				70,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "yaai right"
+		},
+		{
+			"offsets": [
+				-234,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "yaai left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yaai",
+	"position": [
+		-330,
+		-150
+	],
+	"healthicon": "idiot",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-470,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

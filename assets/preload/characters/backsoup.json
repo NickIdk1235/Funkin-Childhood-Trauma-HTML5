@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-467,
+				-286
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "soupman left"
+		},
+		{
+			"offsets": [
+				-459,
+				-297
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "soupman down"
+		},
+		{
+			"offsets": [
+				-478,
+				-300
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "soupman up"
+		},
+		{
+			"offsets": [
+				-502,
+				-281
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "soupman right"
+		},
+		{
+			"offsets": [
+				-460,
+				-310
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "backsoup idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/backsoup",
+	"position": [
+		-920,
+		-520
+	],
+	"healthicon": "bossbaby",
+	"flip_x": false,
+	"healthbar_colors": [
+		181,
+		178,
+		173
+	],
+	"camera_position": [
+		490,
+		270
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

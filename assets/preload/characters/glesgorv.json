@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-230,
+				-301
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "glesgorv right"
+		},
+		{
+			"offsets": [
+				-260,
+				-293
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "glesgorv left"
+		},
+		{
+			"offsets": [
+				-259,
+				-295
+			],
+			"loop": false,
+			"fps": 23,
+			"anim": "singUP",
+			"indices": [],
+			"name": "glesgorv up"
+		},
+		{
+			"offsets": [
+				-249,
+				-291
+			],
+			"loop": false,
+			"fps": 22,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "glesgorv down"
+		},
+		{
+			"offsets": [
+				-242,
+				-291
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "glesgorv idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glesgorv",
+	"position": [
+		140,
+		-470
+	],
+	"healthicon": "rojo",
+	"flip_x": false,
+	"healthbar_colors": [
+		194,
+		53,
+		53
+	],
+	"camera_position": [
+		-970,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lomandoghost idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lomandoghost down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				60
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lomandoghost up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				37
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lomandoghost right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lomandoghost left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/lomandoghost",
+	"position": [
+		180,
+		-470
+	],
+	"healthicon": "lomandoghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		183
+	],
+	"camera_position": [
+		-520,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

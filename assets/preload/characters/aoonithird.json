@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				550,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "aooni idle"
+		},
+		{
+			"offsets": [
+				568,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "aooni left"
+		},
+		{
+			"offsets": [
+				550,
+				226
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "aooni down"
+		},
+		{
+			"offsets": [
+				529,
+				218
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "aooni up"
+		},
+		{
+			"offsets": [
+				541,
+				214
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "aooni right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/aoonithirdperson",
+	"position": [
+		380,
+		240
+	],
+	"healthicon": "oni-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		25,
+		0,
+		97
+	],
+	"camera_position": [
+		-360,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				50,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "theather idle"
+		},
+		{
+			"offsets": [
+				50,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "theather down"
+		},
+		{
+			"offsets": [
+				57,
+				120
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "theather up"
+		},
+		{
+			"offsets": [
+				52,
+				122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "theather right"
+		},
+		{
+			"offsets": [
+				48,
+				116
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "theather left"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/theather",
+	"position": [
+		-320,
+		50
+	],
+	"healthicon": "theather",
+	"flip_x": false,
+	"healthbar_colors": [
+		205,
+		205,
+		205
+	],
+	"camera_position": [
+		-610,
+		-370
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

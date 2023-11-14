@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rightism",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "leftism",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-31
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "downism",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "upism",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idleism",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/girl",
+	"position": [
+		0,
+		290
+	],
+	"healthicon": "mirror-girl",
+	"flip_x": true,
+	"healthbar_colors": [
+		141,
+		223,
+		147
+	],
+	"camera_position": [
+		530,
+		-430
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

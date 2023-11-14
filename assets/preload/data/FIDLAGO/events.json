@@ -1,0 +1,676 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				150,
+				[
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"90"
+					],
+					[
+						"Note Fade",
+						"1",
+						"1"
+					],
+					[
+						"Note Fade",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				225,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				375,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				525,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				675,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				825,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				975,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1125,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1275,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1425,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1575,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1725,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				1875,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2025,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2175,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2325,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2475,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2625,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2775,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				2925,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3075,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3225,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3375,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3525,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3675,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3825,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				3975,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4125,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4275,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4425,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4575,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4725,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				4875,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5025,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5175,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5325,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5475,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5625,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5775,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				5925,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6075,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6225,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6375,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6525,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6675,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6825,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				6975,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7125,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7275,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7425,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7575,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7725,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				7875,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				8025,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				8175,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				8250,
+				[
+					[
+						"Note Fade",
+						"1.5",
+						"1"
+					]
+				]
+			],
+			[
+				8325,
+				[
+					[
+						"Play Animation",
+						"sus",
+						"dad"
+					]
+				]
+			],
+			[
+				9600,
+				[
+					[
+						"Note Fade",
+						"2.5",
+						"1"
+					],
+					[
+						"Cinematics (With HUD)",
+						"1",
+						"0"
+					]
+				]
+			],
+			[
+				105568.125,
+				[
+					[
+						"Note Fade",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Note Fade",
+						"1",
+						"1"
+					],
+					[
+						"Note Fade",
+						"2.5",
+						"1"
+					]
+				]
+			],
+			[
+				124755,
+				[
+					[
+						"Note Fade",
+						"1.5",
+						"1"
+					],
+					[
+						"Note Fade",
+						"2",
+						"1 "
+					]
+				]
+			],
+			[
+				133875,
+				[
+					[
+						"Note Fade",
+						"1",
+						"1"
+					],
+					[
+						"Note Fade",
+						"2.5",
+						"1"
+					]
+				]
+			],
+			[
+				143602.5,
+				[
+					[
+						"Note Fade",
+						"1.5",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

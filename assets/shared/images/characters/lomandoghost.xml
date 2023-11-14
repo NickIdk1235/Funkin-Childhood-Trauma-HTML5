@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="lomandoghost.png">
+<SubTexture name="lomandoghost idle0000" x="1981" y="1220" width="406" height="609" frameX="-648" frameY="-294" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0001" x="1409" y="1254" width="406" height="609" frameX="-648" frameY="-294" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0002" x="792" y="627" width="397" height="626" frameX="-653" frameY="-277" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0003" x="1584" y="0" width="397" height="626" frameX="-653" frameY="-277" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0004" x="0" y="0" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0005" x="396" y="0" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0006" x="792" y="0" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0007" x="1188" y="0" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0008" x="0" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0009" x="396" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0010" x="0" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0011" x="396" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0012" x="0" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0013" x="396" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost idle0014" x="0" y="627" width="396" height="627" frameX="-654" frameY="-276" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0000" x="0" y="1254" width="710" height="610" frameX="-590" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0001" x="0" y="1254" width="710" height="610" frameX="-590" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0002" x="710" y="1254" width="699" height="610" frameX="-597" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0003" x="710" y="1254" width="699" height="610" frameX="-597" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0004" x="1981" y="0" width="691" height="610" frameX="-601" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost left0005" x="1981" y="0" width="691" height="610" frameX="-601" frameY="-292" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0000" x="463" y="2470" width="467" height="478" frameX="-615" frameY="-421" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0001" x="463" y="2470" width="467" height="478" frameX="-615" frameY="-421" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0002" x="0" y="2470" width="463" height="481" frameX="-617" frameY="-418" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0003" x="0" y="2470" width="463" height="481" frameX="-617" frameY="-418" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0004" x="2672" y="0" width="461" height="483" frameX="-618" frameY="-416" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost down0005" x="2672" y="0" width="461" height="483" frameX="-618" frameY="-416" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0000" x="826" y="1864" width="489" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0001" x="826" y="1864" width="489" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0002" x="1315" y="1864" width="487" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0003" x="1315" y="1864" width="487" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0004" x="1802" y="1864" width="486" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost right0005" x="1802" y="1864" width="486" height="568" frameX="-673" frameY="-334" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0000" x="1981" y="610" width="408" height="610" frameX="-669" frameY="-291" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0001" x="1981" y="610" width="408" height="610" frameX="-669" frameY="-291" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0002" x="0" y="1864" width="412" height="606" frameX="-667" frameY="-296" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0003" x="0" y="1864" width="412" height="606" frameX="-667" frameY="-296" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0004" x="412" y="1864" width="414" height="599" frameX="-666" frameY="-302" frameWidth="1774" frameHeight="998" />
+<SubTexture name="lomandoghost up0005" x="412" y="1864" width="414" height="599" frameX="-666" frameY="-302" frameWidth="1774" frameHeight="998" />
+</TextureAtlas>

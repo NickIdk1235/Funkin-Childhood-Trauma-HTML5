@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "onigm bf dies",
+			"indices": []
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "onigm dead loop"
+		},
+		{
+			"offsets": [
+				37,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "onigm dead confirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/onigm",
+	"position": [
+		-650,
+		-890
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		450,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 1.8
+}

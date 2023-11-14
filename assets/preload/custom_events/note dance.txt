@@ -1,0 +1,4 @@
+1 = To make it dance
+0 = To stop it to dance (MAYBE BROKEN)
+
+FIXED CODE BY NICKIDK

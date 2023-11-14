@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-180
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "smiledog left"
+		},
+		{
+			"offsets": [
+				-60,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "smiledog down"
+		},
+		{
+			"offsets": [
+				-40,
+				-200
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "smiledog up"
+		},
+		{
+			"offsets": [
+				-40,
+				-230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "smiledog right"
+		},
+		{
+			"offsets": [
+				-110,
+				-250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "smiledog idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smiledog",
+	"position": [
+		-510,
+		-330
+	],
+	"healthicon": "dog",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		0,
+		0
+	],
+	"camera_position": [
+		-750,
+		-250
+	],
+	"sing_duration": 6.1,
+	"scale": 1.8
+}

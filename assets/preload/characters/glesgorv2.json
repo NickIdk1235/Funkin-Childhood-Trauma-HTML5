@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 22,
+			"name": "glesgorv2 right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				37
+			],
+			"anim": "singLEFT",
+			"fps": 21,
+			"name": "glesgorv2 left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				48
+			],
+			"anim": "singUP",
+			"fps": 23,
+			"name": "glesgorv2 up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 22,
+			"name": "glesgorv2 down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				218,
+				39
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "glesgorv2 idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/glesgorv2",
+	"position": [
+		250,
+		-110
+	],
+	"healthicon": "rojo",
+	"flip_x": false,
+	"healthbar_colors": [
+		194,
+		53,
+		53
+	],
+	"camera_position": [
+		-730,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 1.4
+}

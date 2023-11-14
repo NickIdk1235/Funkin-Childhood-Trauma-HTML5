@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "elmo idle"
+		},
+		{
+			"offsets": [
+				10,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "elmo down"
+		},
+		{
+			"offsets": [
+				8,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "elmo up"
+		},
+		{
+			"offsets": [
+				14,
+				42
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "elmo right"
+		},
+		{
+			"offsets": [
+				28,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "elmo left"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/elmo",
+	"position": [
+		-650,
+		-120
+	],
+	"healthicon": "elmo",
+	"flip_x": false,
+	"healthbar_colors": [
+		226,
+		53,
+		22
+	],
+	"camera_position": [
+		-370,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.5
+}

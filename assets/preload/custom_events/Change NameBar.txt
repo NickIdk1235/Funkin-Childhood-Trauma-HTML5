@@ -1,0 +1,9 @@
+Value 1: Whatever you want to change the NameBar to
+
+Value 2: Nothing
+
+NameBar is what I am calling it to change the top bar thing
+
+Coded by NickIdk
+
+This is in beta rn so it will not maybe work.

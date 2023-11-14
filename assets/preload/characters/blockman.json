@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "blockman idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "blockman down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "blockman up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "blockman right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "blockman left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/blockman",
+	"position": [
+		-220,
+		60
+	],
+	"healthicon": "fuwati",
+	"flip_x": false,
+	"healthbar_colors": [
+		38,
+		3,
+		93
+	],
+	"camera_position": [
+		-280,
+		-200
+	],
+	"sing_duration": 6.1,
+	"scale": 1.9
+}

@@ -1,0 +1,7 @@
+Value 1: Score Font
+Value 2: Timebar Font
+
+You need to put .ttf at the end
+If the file type is not ttf then you can't use that type. Sorry.
+
+MADE BY NICKIDK

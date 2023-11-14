@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "mirrorghost idle"
+		},
+		{
+			"offsets": [
+				-64,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "mirrorghost left"
+		},
+		{
+			"offsets": [
+				-50,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "mirrorghost down"
+		},
+		{
+			"offsets": [
+				-33,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "mirrorghost up"
+		},
+		{
+			"offsets": [
+				-70,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "mirrorghost right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mirrorghost",
+	"position": [
+		-660,
+		-260
+	],
+	"healthicon": "mirror-girl2",
+	"flip_x": false,
+	"healthbar_colors": [
+		141,
+		223,
+		147
+	],
+	"camera_position": [
+		-350,
+		-110
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "oni idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				50
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "oni down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "oni up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				49
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "oni right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				53
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "oni left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				51
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "oni scream",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oni",
+	"position": [
+		-130,
+		20
+	],
+	"healthicon": "oni-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		103,
+		0,
+		183
+	],
+	"camera_position": [
+		-380,
+		-300
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

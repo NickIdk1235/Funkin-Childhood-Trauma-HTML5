@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "BF NOTE DOWN MISS",
+	"idle_anim": "BF idle dance",
+	"position": [
+		-340,
+		-210
+	],
+	"scale": 0.85,
+	"image": "BfScared",
+	"flipX": false
+}

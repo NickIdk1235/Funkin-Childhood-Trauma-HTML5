@@ -1,0 +1,5 @@
+Value 1: 
+1 to add the Jumpscared
+0 to Remove the Jumpscared
+
+CODE MADE BY NICKIDK
